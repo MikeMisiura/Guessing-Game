@@ -1,3 +1,31 @@
+body {
+    background:radial-gradient(#e66465, #9198e5);
+    text-align: center;
+}
+
 .win {
     font-size: large;
+}
+
+.btn {
+    margin: 15px
+}
+
+.think{
+    color: rgb(112, 25, 25);
+    font-size: 20px
+}
+
+.form {
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+#inputBox{
+    text-align: center;
+}
+
+.inputContainer{
+    width: 300
 }
